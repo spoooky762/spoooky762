@@ -1,7 +1,6 @@
 
 
 
-![Alt](https://repobeats.axiom.co/api/embed/e4345c2a95ec630915c1c3289ec3da3eef7a1287.svg "Analytics 🐈‍⬛")
 
 --
 
